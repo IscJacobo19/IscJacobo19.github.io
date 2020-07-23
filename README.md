@@ -4,11 +4,9 @@ Ruby and Rails official documentation reading personal journal
 
 ## Week 1
 
-### Mon 20, July 2020 *[Reading topic or title]*
-orem ipsum dolor sit amet consectetur adipiscing elit nulla consequat, taciti arcu volutpat mattis blandit primis natoque feugiat posuere, elementum curabitur mollis enim velit vulputate urna ut. Ultrices nisl nam nunc netus himenaeos magnis phasellus...
+### Thursday 20, July 2020 *[ruby on rails installation]*
+Ruby on Rails is an open source web application framework written in the Ruby programming language, following the paradigm of the Model Vista Controller model.
 
-### Tue 21, July 2020 *[Reading topic or title]*
-orem ipsum dolor sit amet consectetur adipiscing elit nulla consequat, taciti arcu volutpat mattis blandit primis natoque feugiat posuere, elementum curabitur mollis enim velit vulputate urna ut. Ultrices nisl nam nunc netus himenaeos magnis phasellus...
+The ruby ​​on rails page mentions that installing rails is as easy as putting 'gem install rails' in the console, but we must bear in mind that we use the ruby ​​language and a rubygems library manager.
+In my case I am working with Linux ubuntu 18.04 LTS [GitHub](http://rubyonrails.org.es/instala.html)
 
-### Wed 21, July 2020 *[Reading topic or title]*
-orem ipsum dolor sit amet consectetur adipiscing elit nulla consequat, taciti arcu volutpat mattis blandit primis natoque feugiat posuere, elementum curabitur mollis enim velit vulputate urna ut. Ultrices nisl nam nunc netus himenaeos magnis phasellus...
